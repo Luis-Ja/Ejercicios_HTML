@@ -1,6 +1,8 @@
 # Ejercicios_HTML
 Mis primero ejercicios de HTML sencillos, para el módulo LMSG
 
+:wink:
+
 ## Descripción
 En este repositorio de GitHub vamos a ir subiendo ejemplos de páginas web realizadas para el módulo LMSGI.
 Lógicamente, las primeras páginas serán muy sencillas y, poco a poco, irán creciendo en complejidad.
