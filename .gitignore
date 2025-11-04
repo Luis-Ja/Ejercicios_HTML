@@ -1,0 +1,9 @@
+# Ignorar copias de seguridad
+*.bak
+
+# Ignorar archivos compilados (.class)
+*.class
+
+# Ignorar mi fichero personal
+apuntes_personales.txt
+
