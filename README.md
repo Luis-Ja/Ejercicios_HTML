@@ -13,5 +13,7 @@ Para *interpretar* las páginas, en principio, nos sirve cualquier explorador (p
 [Página oficial de VS Code](https://code.visualstudio.com/)
 ## Alumno propietario del repositorio
 Luis Ja. Menéndez Tascón
-:wave:
+:smile:
+
+Esto es un ejemplo de fragmento de código: `print("Hola Mundo")`
 
